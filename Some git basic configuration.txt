@@ -1,0 +1,25 @@
+Allocate destop forder --> cd Desktop
+
+Find folder directory --> cd folderName
+
+Make the file accesible to githup--> git init
+
+Add the file to gitup---> git add .
+
+Commit the file---> git commit -m "FolderName"
+
+Change githup url to default name---> git remote add defaultName CurrentgitURLLink 
+
+Check if the url name have chnage ---> git remote
+
+Push the file to github repository---> git push -u gitURL
+
+Finished
+
+Note:
+To change username----> git config --global user.name "NewUsername"
+
+To change username----> git config --global user.email "NewEmailAddress"
+
+To display the changes----> git config --list
+To display single config example email---> git config user.email
