@@ -6,7 +6,7 @@ Make the file accesible to githup--> git init
 
 Add the file to gitup---> git add .
 
-Commit the file---> git commit -m "FolderName"
+Commit the file---> git commit -m "your comments"
 
 Change githup url to default name---> git remote add defaultName CurrentgitURLLink 
 
